@@ -2,7 +2,7 @@
   "name": "gcb-serverless-demo",
   "version": "1.0.0",
   "description": "Demo of deploying Serverless multi-tier application with Cloud Build",
-  "repository": "https://github.com/christophersanson/serverless-demo",
+  "repository": "https://github.com/kalyangcp123/serverless-demo",
   "private": true,
   "scripts": {
     "start": "node app.js",
@@ -11,7 +11,7 @@
     "test": "repo-tools test app",
     "cover": "nyc --cache npm test; nyc report --reporter=html"
   },
-  "author": "christophersanson",
+  "author": "kalyangcp123",
   "cloud-repo-tools": {
     "requiresKeyFile": true,
     "requiresProjectId": true,
